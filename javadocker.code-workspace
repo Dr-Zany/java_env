@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.format.settings.url": "./.devcontainer/eclipse-formatter.xml",
+		"editor.formatOnSave": true
+	}
+}
