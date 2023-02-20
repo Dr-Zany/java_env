@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"editor.formatOnSave": true,
-		"clang-format.executable": "clang-format"
+		"clang-format.executable": "clang-format-11",
+		"editor.defaultFormatter": "xaver.clang-format"
 	}
 }
